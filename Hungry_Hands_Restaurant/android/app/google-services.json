@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "812064294731",
+    "firebase_url": "https://hungryhands-69809-default-rtdb.firebaseio.com",
+    "project_id": "hungryhands-69809",
+    "storage_bucket": "hungryhands-69809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812064294731:android:1e6eba08c8d70183cd4ace",
+        "android_client_info": {
+          "package_name": "com.HungryHandsCSUN.Hungry_Hands_Restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812064294731-5krlr38vp0ug2f76fdhktisdlnsit8v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJp6YOHWt8Y_64-xKMVMCv9GraApD6c4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812064294731-5krlr38vp0ug2f76fdhktisdlnsit8v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
